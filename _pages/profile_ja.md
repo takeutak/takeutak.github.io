@@ -49,6 +49,7 @@ redirect_from:
 
 ### 査読付き雑誌・会議
 
+- Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**: "*Towards Levels of Assurance for Data Trustworthiness - A Novel Framework to Promote Trust in Inter-Organisational Data Sharing*" (**workshop paper**), 18th Workshop on Social and Human Aspects of Business Process Management (BPMS2 2025), 19th International Conference on Research Challenges in Information Science (RCIS2025), Spain, 2025.
 - **Takuma Takeuchi**, Peter Somogyvari, Tracy Kuhrt, Venkatraman Ramakrishna, Susumu Toriumi: "*Panel Discussion: Blockchain Interoperability with Hyperledger Cactus, Weaver, and YUI*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022.
 - Jim Zhang, Sophia Lopez, Peter Somogyvari, Venkatraman Ramakrishna, **Takuma Takeuchi**: "*Panel Discussion: All Things Cross-Chain*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022.
 - Shingo Fujimoto, **Takuma Takeuchi**, Yoshiki Higashikado. "*Secure Blockchain Interworking Using Extended Smart Contract*" (**journal**), IEICE Transactions on Information and Systems 2022.
