@@ -26,9 +26,10 @@ redirect_from:
   - 2021年10月--2022年3月: シニアリサーチャー, 富士通研究所, 富士通株式会社
   - 2021年4月--2021年9月: 研究員, 富士通研究所, 富士通株式会社
   - 2013年4月--2021年3月: 研究員, 株式会社富士通研究所
-- 2020年5月--現在: Hyperledger Foundation
-  - 2022年9月--現在: Project Maintainer, Hyperledger Cacti, Hyperledger
-  - 2020年5月--2022年9月: Project Maintainer, Hyperledger Cactus, Hyperledger
+- 2020年5月--現在: Linux Foundation Decentralized Trust / Hyperledger Foundation
+  - 2024年9月--現在: Project Maintainer, Hyperledger Cacti, Linux Foundation Decentralized Trust
+  - 2022年9月--2024年8月: Project Maintainer, Hyperledger Cacti, Hyperledger Foundation
+  - 2020年5月--2022年9月: Project Maintainer, Hyperledger Cactus, Hyperledger Foundation
 - 2023年4月--2024年3月: Fujitsu Research of Europe Ltd.
   - 2023年4月--2024年3月: Senior Research Manager, Fujitsu Research of Europe Ltd.
 - 2022年1月--2023年3月: Fujitsu Research of America, Inc.
