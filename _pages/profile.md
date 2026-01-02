@@ -50,6 +50,7 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Referred journals and conferences
 
+- Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**: "*Towards a Levels of Assurance for Data Trustworthiness Framework: A Design Science Approach*" (**journal**), Communications in Computer and Information Science 2026.
 - Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**: "*Towards Levels of Assurance for Data Trustworthiness - A Novel Framework to Promote Trust in Inter-Organisational Data Sharing*" (**workshop paper**), 18th Workshop on Social and Human Aspects of Business Process Management (BPMS2 2025), 19th International Conference on Research Challenges in Information Science (RCIS2025), Spain, 2025.
 - **Takuma Takeuchi**, Peter Somogyvari, Tracy Kuhrt, Venkatraman Ramakrishna, Susumu Toriumi: "*Panel Discussion: Blockchain Interoperability with Hyperledger Cactus, Weaver, and YUI*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022. [[Youtube](https://www.youtube.com/watch?v=FdYCrgO9g6A)]
 - Jim Zhang, Sophia Lopez, Peter Somogyvari, Venkatraman Ramakrishna, **Takuma Takeuchi**: "*Panel Discussion: All Things Cross-Chain*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022. [[Youtube](https://www.youtube.com/watch?v=_NmUiVsmss8)]
@@ -75,6 +76,7 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Technical articles
 
+- Hirokazu Anai, Katsuki Fujisawa, et al. (including **Takuma Takeuchi**): "*Realizing Socially Acceptable Sustainable Engineering through Generative AI*" (**technical report**), Council on Competitiveness-Nippon (COCN), 2025. [[Report(Japanese)](https://www.cocn.jp/report/2025/)]
 - Peter Somogyvari, Jagpreet Singh Sasan, Izuru Sato, **Takuma Takeuchi**, Venkatraman Ramakrishna, Sandeep Nishad, Krishnasuri Narayanam, Dhinakaran Vinayagamurthy: "*Introducing Hyperledger Cacti, a multi-faceted pluggable interoperability framework*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/11/07/introducing-hyperledger-cacti-a-multi-faceted-pluggable-interoperability-framework)]
 - Peter Somogyvari, **Takuma Takeuchi**: "*Hyperledger Cactus: Release V1 on the Road to General Blockchain Integration*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/03/17/hyperledger-cactus-release-v1-on-the-road-to-general-blockchain-integration)]
 
