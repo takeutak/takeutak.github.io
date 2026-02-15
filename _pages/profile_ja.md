@@ -48,24 +48,24 @@ redirect_from:
 
 ## 研究開発業績
 
-### 査読付き雑誌・会議
+### 査読付き論文・国際会議予稿
 
 - Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**: "*Towards a Levels of Assurance for Data Trustworthiness Framework: A Design Science Approach*" (**journal**), Communications in Computer and Information Science 2026.
-- Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**: "*Towards Levels of Assurance for Data Trustworthiness - A Novel Framework to Promote Trust in Inter-Organisational Data Sharing*" (**workshop paper**), 18th Workshop on Social and Human Aspects of Business Process Management (BPMS2 2025), 19th International Conference on Research Challenges in Information Science (RCIS2025), Spain, 2025.
-- **Takuma Takeuchi**, Peter Somogyvari, Tracy Kuhrt, Venkatraman Ramakrishna, Susumu Toriumi: "*Panel Discussion: Blockchain Interoperability with Hyperledger Cactus, Weaver, and YUI*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022. [[Youtube](https://www.youtube.com/watch?v=FdYCrgO9g6A)]
-- Jim Zhang, Sophia Lopez, Peter Somogyvari, Venkatraman Ramakrishna, **Takuma Takeuchi**: "*Panel Discussion: All Things Cross-Chain*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022. [[Youtube](https://www.youtube.com/watch?v=_NmUiVsmss8)]
 - Shingo Fujimoto, **Takuma Takeuchi**, Yoshiki Higashikado. "*Secure Blockchain Interworking Using Extended Smart Contract*" (**journal**), IEICE Transactions on Information and Systems 2022.
-- **Takuma Takeuchi**. "*A blockchain interoperability solution for creating token economies - Hyperledger Cactus*" (**presentation**), DeveloperWeek2022, Virtual and USA, 2022.
 - Shingo Fujimoto, Yoshiki Higashikado, **Takuma Takeuchi**. "*ConnectionChain: Secure Interworking of Blockchains*" (**proceeding**), The International Symposium on Blockchain Computing and Applications (BCCA2019), Spain, 2019.
-- **Takuma Takeuchi**, Yoshiki Higashikado, Shingo Fujimoto. "*A secure cross-chain platform for business blockchain applications*" (**poster**), The 14th International Workshop on Security (IWSEC2019), Japan, 2019.
 - **Takuma Takeuchi**, Toshiya Shimizu, Ken Kamakura, Takeshi Shimoyama, Hiroshi Tsuda. "*A Limited-Use Asset Management System on the Blockchain Platform with an Extended Open Assets Protocol*" (**proceeding**), The 23rd Annual International Conference on Advanced Computing and Communications (ADCOM2017), India, 2017.
-- Fuyuhiko Tanaka, **Takuma Takeuchi**. "*Hypothesis testing of a maximally entangled state under the unknown unitary process*" (**poster**), Quantum Information Processing 2012 (QIP2012), Canada, 2011.
 
 ### 査読なし発表
 
+- Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**: "*Towards Levels of Assurance for Data Trustworthiness - A Novel Framework to Promote Trust in Inter-Organisational Data Sharing*" (**workshop paper**), 18th Workshop on Social and Human Aspects of Business Process Management (BPMS2 2025), 19th International Conference on Research Challenges in Information Science (RCIS2025), Spain, 2025.
+- **Takuma Takeuchi**, Peter Somogyvari, Tracy Kuhrt, Venkatraman Ramakrishna, Susumu Toriumi: "*Panel Discussion: Blockchain Interoperability with Hyperledger Cactus, Weaver, and YUI*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022. [[Youtube](https://www.youtube.com/watch?v=FdYCrgO9g6A)]
+- Jim Zhang, Sophia Lopez, Peter Somogyvari, Venkatraman Ramakrishna, **Takuma Takeuchi**: "*Panel Discussion: All Things Cross-Chain*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022. [[Youtube](https://www.youtube.com/watch?v=_NmUiVsmss8)]
+- **Takuma Takeuchi**. "*A blockchain interoperability solution for creating token economies - Hyperledger Cactus*" (**presentation**), DeveloperWeek2022, Virtual and USA, 2022.
+- **Takuma Takeuchi**, Yoshiki Higashikado, Shingo Fujimoto. "*A secure cross-chain platform for business blockchain applications*" (**poster**), The 14th International Workshop on Security (IWSEC2019), Japan, 2019.
 - **Takuma Takeuchi**, Hiroto Sekido. "*An approximate approach to E-optimal designs for weighted polynomial regression by using Tchebycheff systems and orthogonal polynomials*" (**poster**), China-Japan Joint Workshop on Integrable Systems 2013, Japan, 2013.
 - **竹内琢磨**, 關戸啓人. "*Tchebycheff system と直交多項式を用いた重み付き多項式回帰の E-optimal design の解法について*" (**poster**), 第7回日本統計学会春季集会, Japan, 2013.
 - **竹内琢磨**, 橋本竜太, 相浦大司, 殷信, 加藤拓哉, 塚本和磨, 松田孟留. "*5×5×5ルービックキューブソルバ，およびGAPをサブプログラムとしたその解法*" (**presentation**), Risa/Asir Conference 2012, Japan, 2012.
+- Fuyuhiko Tanaka, **Takuma Takeuchi**. "*Hypothesis testing of a maximally entangled state under the unknown unitary process*" (**poster**), Quantum Information Processing 2012 (QIP2012), Canada, 2011.
 - **竹内琢磨**, 田中冬彦. "*撹乱母数を持つ量子状態モデルの仮説検定*" (**presentation**), 2011年度統計関連学会連合大会, 2011.
 
 ### 招待講演
