@@ -39,6 +39,8 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Education
 
+- Apr.2026--now: Doctoral student, University of Tsukuba
+  - Apr.2026--now: Doctoral Program in Risk and Resillience Engineering, Degree Programs in Systems and Information Engineering, Graduate School of Science and Technology
 - Apr.2011--Mar.2013: Master's degree of Informatics, Kyoto University
   - Apr.2011--Mar.2013: Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University
 - Apr.2007--Mar.2011: Bachelor's degree of Engineering, The University of Tokyo
