@@ -68,6 +68,7 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Invited presentations
 
+- **Takuma Takeuchi**. "*Learning and security technologies toward trustworthy distributed AI*" (**presentation**), General Conference of the Institute of Electronics, Information and Communication Engineers, Japan, 2026. [[Proceeding(Japanese)](https://pub.confit.atlas.jp/ja/event/general2026/presentation/BI-11-05)]
 - **Takuma Takeuchi**. "*An introduction to research activities of security and blockchain on Fujitsu*" (**presentation**), Human Network for Researchers toward Advanced Telecommunications (AC Net), Online, 2021.
 - **Takuma Takeuchi**. "*The overview of Hyperledger Cactus V0.4 and its plan for future development*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2021. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus-v04)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=LKUdWoxz_lQ)]
 - **Takuma Takeuchi**. "*An introduction to the new project, Hyperledger Cactus*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs)]

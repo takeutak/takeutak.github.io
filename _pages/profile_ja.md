@@ -69,6 +69,7 @@ redirect_from:
 
 ### 招待講演
 
+- **竹内琢磨**. "*信頼される分散AIに向けた学習・セキュリティ技術*" (**presentation**), 電子情報通信学会総合大会, Japan, 2026. [[Proceeding(Japanese)](https://pub.confit.atlas.jp/ja/event/general2026/presentation/BI-11-05)]
 - **竹内琢磨**. "*富士通のセキュリティおよびブロックチェーンに関する研究の取り組み*" (**presentation**), 情報通信技術研究交流会 (AC Net), Online, 2021.
 - **竹内琢磨**. "*Hyperledger Cactus V0.4 リリースの概要と今後の開発方針*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2021. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus-v04)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=LKUdWoxz_lQ)]
 - **竹内琢磨**. "*新プロジェクト Hyperledger Cactus のご紹介*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs)]
