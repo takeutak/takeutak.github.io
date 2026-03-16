@@ -39,7 +39,7 @@ redirect_from:
 
 ### 学歴
 
-- 2026年4月--現在: 博士課程在学中 筑波大学
+- 2026年4月--現在: 博士後期課程学生 筑波大学
   - 2026年4月--現在: 筑波大学大学院 理工情報生命学術院 システム情報工学研究群 リスク・レジリエンス工学学位プログラム
 - 2011年4月--2013年3月: 修士（情報学） 京都大学
   - 2011年4月--2013年3月: 京都大学大学院 情報学研究科 数理工学専攻
@@ -71,7 +71,7 @@ redirect_from:
 
 ### 招待講演
 
-- **竹内琢磨**. "*信頼される分散AIに向けた学習・セキュリティ技術*" (**presentation**), 電子情報通信学会総合大会, Japan, 2026. [[Proceeding(Japanese)](https://pub.confit.atlas.jp/ja/event/general2026/presentation/BI-11-05)]
+- **竹内琢磨**. "*信頼される分散AIに向けた学習・セキュリティ技術*" (**presentation**), 電子情報通信学会総合大会, Japan, 2026. [[Proceeding(Japanese)](https://pub.confit.atlas.jp/ja/event/general2026/session/3S20701-06)]
 - **竹内琢磨**. "*富士通のセキュリティおよびブロックチェーンに関する研究の取り組み*" (**presentation**), 情報通信技術研究交流会 (AC Net), Online, 2021.
 - **竹内琢磨**. "*Hyperledger Cactus V0.4 リリースの概要と今後の開発方針*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2021. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus-v04)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=LKUdWoxz_lQ)]
 - **竹内琢磨**. "*新プロジェクト Hyperledger Cactus のご紹介*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs)]

@@ -40,7 +40,7 @@ My research interests include blockchain security, blockchain interoperability, 
 ### Education
 
 - Apr.2026--now: Doctoral student, University of Tsukuba
-  - Apr.2026--now: Doctoral Program in Risk and Resillience Engineering, Degree Programs in Systems and Information Engineering, Graduate School of Science and Technology
+  - Apr.2026--now: Doctoral Program in Risk and Resillience Engineering, Degree Programs in Systems and Information Engineering, Graduate School of Science and Technology, University of Tsukuba
 - Apr.2011--Mar.2013: Master's degree of Informatics, Kyoto University
   - Apr.2011--Mar.2013: Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University
 - Apr.2007--Mar.2011: Bachelor's degree of Engineering, The University of Tokyo
@@ -70,7 +70,7 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Invited presentations
 
-- **Takuma Takeuchi**. "*Learning and security technologies toward trustworthy distributed AI*" (**presentation**), General Conference of the Institute of Electronics, Information and Communication Engineers, Japan, 2026. [[Proceeding(Japanese)](https://pub.confit.atlas.jp/ja/event/general2026/presentation/BI-11-05)]
+- **Takuma Takeuchi**. "*Learning and security technologies toward trustworthy decentralized and collaborative AI*" (**presentation**), IEICE General Conference, Japan, 2026. [[Proceeding(Japanese)](https://pub.confit.atlas.jp/en/event/general2026/session/3S20701-06)]
 - **Takuma Takeuchi**. "*An introduction to research activities of security and blockchain on Fujitsu*" (**presentation**), Human Network for Researchers toward Advanced Telecommunications (AC Net), Online, 2021.
 - **Takuma Takeuchi**. "*The overview of Hyperledger Cactus V0.4 and its plan for future development*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2021. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus-v04)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=LKUdWoxz_lQ)]
 - **Takuma Takeuchi**. "*An introduction to the new project, Hyperledger Cactus*" (**presentation**), Hyperledger Tokyo Meetup, Online, 2020. [[Slideshare(Japanese)](https://www.slideshare.net/Hyperledger_Tokyo/hyperledger-cactus)], [[Youtube(Japanese)](https://www.youtube.com/watch?v=UU_RVbiOFJs)]
