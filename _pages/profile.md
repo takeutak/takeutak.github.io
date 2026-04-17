@@ -40,8 +40,8 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Education
 
-- Apr.2026--now: Doctoral student, The University of Tsukuba
-  - Apr.2026--now: Doctoral Program in Risk and Resillience Engineering, Degree Programs in Systems and Information Engineering, Graduate School of Science and Technology, The University of Tsukuba
+- Apr.2026--now: Doctoral student, University of Tsukuba
+  - Apr.2026--now: Doctoral Program in Risk and Resilience Engineering, Degree Programs in Systems and Information Engineering, Graduate School of Science and Technology, University of Tsukuba
 - Apr.2011--Mar.2013: Master's degree of Informatics, Kyoto University
   - Apr.2011--Mar.2013: Department of Applied Mathematics and Physics, Graduate School of Informatics, Kyoto University
 - Apr.2007--Mar.2011: Bachelor's degree of Engineering, The University of Tokyo
@@ -96,7 +96,6 @@ My research interests include blockchain security, blockchain interoperability, 
 - **Best Idea and Use Case Award**, Smart Contract Japan 2016 Blockchain Hackathon, 2016.
 - **Best Student Presentation Award**, The 7th JSS Spring Meeting (Japan Statistical Society), 2013.
 
-## Links
-- [Fujitsu Research](https://www.fujitsu.com/global/about/research/)
-- [Fujitsu Research of America](https://www.fujitsu.com/us/about/businesspolicy/tech/rd/)
-- [Fujitsu Research of Europe](https://www.fujitsu.com/uk/about/local/corporate/subsidiaries/fle/)
+## Disclaimer
+
+- The views expressed here are my own and do not represent my organization.

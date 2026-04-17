@@ -97,7 +97,6 @@ redirect_from:
 - **Best Idea and Use Case Award**, Smart Contract Japan 2016 Blockchain Hackathon, 2016.
 - **学生優秀発表賞**, 第7回日本統計学会春季集会, 2013.
 
-## Links
-- [富士通研究所](https://www.fujitsu.com/jp/about/research/)
-- [Fujitsu Research of America](https://www.fujitsu.com/us/about/businesspolicy/tech/rd/)
-- [Fujitsu Research of Europe](https://www.fujitsu.com/uk/about/local/corporate/subsidiaries/fle/)
+## 備考
+
+- 本ウェブページに掲載されている情報および意見は個人のものであり，所属組織の立場や見解を示すものではありません．
