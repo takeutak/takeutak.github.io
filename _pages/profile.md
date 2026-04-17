@@ -96,6 +96,6 @@ My research interests include blockchain security, blockchain interoperability, 
 - **Best Idea and Use Case Award**, Smart Contract Japan 2016 Blockchain Hackathon, 2016.
 - **Best Student Presentation Award**, The 7th JSS Spring Meeting (Japan Statistical Society), 2013.
 
-## Disclaimer
+## Remark
 
 - The views expressed here are my own and do not represent my organization.
