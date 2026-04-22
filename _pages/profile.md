@@ -27,7 +27,8 @@ My research interests include blockchain security, blockchain interoperability, 
   - Apr.2021--Sep.2021: Researcher, Fujitsu Research, Fujitsu Limited
   - Apr.2013--Mar.2021: Researcher, Fujitsu Laboratories Ltd.
 - May.2020--now: Linux Foundation Decentralized Trust / Hyperledger Foundation
-  - Sep.2024--now: Project Maintainer, Hyperledger Cacti, Linux Foundation Decentralized Trust
+  - Nov.2025--now: Emeritus Project Maintainer, Hyperledger Cacti, Linux Foundation Decentralized Trust
+  - Sep.2024--Nov.2025: Project Maintainer, Hyperledger Cacti, Linux Foundation Decentralized Trust
   - Sep.2022--Aug.2024: Project Maintainer, Hyperledger Cacti, Hyperledger Foundation
   - May.2020--Sep.2022: Project Maintainer, Hyperledger Cactus, Hyperledger Foundation
 - Apr.2023--Mar.2024: Fujitsu Research of Europe Ltd.
