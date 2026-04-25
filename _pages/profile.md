@@ -53,10 +53,10 @@ My research interests include blockchain security, blockchain interoperability, 
 
 ### Referred journals and conference proceedings
 
-- Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**: "*Towards a Levels of Assurance for Data Trustworthiness Framework: A Design Science Approach*" (**journal**), Communications in Computer and Information Science 2026.
-- Shingo Fujimoto, **Takuma Takeuchi**, Yoshiki Higashikado. "*Secure Blockchain Interworking Using Extended Smart Contract*" (**journal**), IEICE Transactions on Information and Systems 2022.
-- Shingo Fujimoto, Yoshiki Higashikado, **Takuma Takeuchi**. "*ConnectionChain: Secure Interworking of Blockchains*" (**proceeding**), The International Symposium on Blockchain Computing and Applications (BCCA2019), Spain, 2019.
-- **Takuma Takeuchi**, Toshiya Shimizu, Ken Kamakura, Takeshi Shimoyama, Hiroshi Tsuda. "*A Limited-Use Asset Management System on the Blockchain Platform with an Extended Open Assets Protocol*" (**proceeding**), The 23rd Annual International Conference on Advanced Computing and Communications (ADCOM2017), India, 2017.
+- Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**, "Towards a Levels of Assurance for Data Trustworthiness Framework: A Design Science Approach" (**journal**), *Communications in Computer and Information Science*, to be published, 2026.
+- Shingo Fujimoto, **Takuma Takeuchi**, Yoshiki Higashikado, "Secure Blockchain Interworking Using Extended Smart Contract" (**journal**), *IEICE TRANSACTIONS on Information and Systems*, vol. E105-D, no. 2, pp. 227–234, Feb. 2022, doi: 10.1587/transinf.2021BCP0002.
+- Shingo Fujimoto, Yoshiki Higashikado, **Takuma Takeuchi**. "ConnectionChain: Secure Interworking of Blockchains" (**proceeding**), *Proc. 2019 Sixth Int. Conf. on Internet of Things: Systems, Management and Security (IOTSMS)*. Granada, Spain, 2019, pp. 514–518, doi: 10.1109/IOTSMS48152.2019.8939267.
+- **Takuma Takeuchi**, Toshiya Shimizu, Ken Kamakura, Takeshi Shimoyama, Hiroshi Tsuda. "A Limited-Use Asset Management System on the Blockchain Platform with an Extended Open Assets Protocol" (**proceeding**), *Proc. 23rd Annual Int. Conf. on Advanced Computing and Communications (ADCOM 2017)*, Kerala, India, 2017, pp. 1-7, doi: 10.1109/ADCOM.2017.8691930.
 
 ### Non-referred presentations
 - Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**: "*Towards Levels of Assurance for Data Trustworthiness - A Novel Framework to Promote Trust in Inter-Organisational Data Sharing*" (**workshop paper**), 18th Workshop on Social and Human Aspects of Business Process Management (BPMS2 2025), 19th International Conference on Research Challenges in Information Science (RCIS2025), Spain, 2025.
@@ -81,16 +81,15 @@ My research interests include blockchain security, blockchain interoperability, 
 
 - Hirokazu Anai, Katsuki Fujisawa, et al. (including **Takuma Takeuchi**): "*Realizing Socially Acceptable Sustainable Engineering through Generative AI*" (**technical report**), Council on Competitiveness-Nippon (COCN), 2025. [[Report(Japanese)](https://www.cocn.jp/report/2025/)]
 - Peter Somogyvari, Jagpreet Singh Sasan, Izuru Sato, **Takuma Takeuchi**, Venkatraman Ramakrishna, Sandeep Nishad, Krishnasuri Narayanam, Dhinakaran Vinayagamurthy: "*Introducing Hyperledger Cacti, a multi-faceted pluggable interoperability framework*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/11/07/introducing-hyperledger-cacti-a-multi-faceted-pluggable-interoperability-framework)]
-- Peter Somogyvari, **Takuma Takeuchi**: "*Hyperledger Cactus: Release V1 on the Road to General Blockchain Integration*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/03/17/hyperledger-cactus-release-v1-on-the-road-to-general-blockchain-integration)]
+- Peter Somogyvari, **Takuma Takeuchi**. "*Hyperledger Cactus: Release V1 on the Road to General Blockchain Integration*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/03/17/hyperledger-cactus-release-v1-on-the-road-to-general-blockchain-integration)]
 
 ### Interview articles
 
-- **Takuma Takeuchi**: "*Thinking outside of the box – focusing on boundaries between multiple heterogeneous technologies to build new attractive technology*" (**interview blog**), Researcher's Dream, Fujitsu Research, 2022. [[Blog](https://www.fujitsu.com/global/about/research/article/202206-dream-03.html)]
+- **Takuma Takeuchi**. "*Thinking outside of the box – focusing on boundaries between multiple heterogeneous technologies to build new attractive technology*" (**interview blog**), Researcher's Dream, Fujitsu Research, 2022. [[Blog](https://www.fujitsu.com/global/about/research/article/202206-dream-03.html)]
 
 ### Open source software development
 
-- [Hyperledger Cacti (Cactus)](https://www.hyperledger.org/use/cactus) - Project Maintainer (2020--present)
-- [FujitsuLaboratories/ConnectionChain-sample](https://github.com/FujitsuLaboratories/ConnectionChain-sample)
+- [Hyperledger Cacti (Cactus)](https://www.lfdecentralizedtrust.org/projects/cacti) - Emeritus Maintainer (2025--now), Maintainer (2020--2025)
 
 ## Awards
 

@@ -53,16 +53,16 @@ redirect_from:
 
 ### 査読付き論文・国際会議予稿
 
-- Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**: "*Towards a Levels of Assurance for Data Trustworthiness Framework: A Design Science Approach*" (**journal**), Communications in Computer and Information Science 2026.
-- Shingo Fujimoto, **Takuma Takeuchi**, Yoshiki Higashikado. "*Secure Blockchain Interworking Using Extended Smart Contract*" (**journal**), IEICE Transactions on Information and Systems 2022.
-- Shingo Fujimoto, Yoshiki Higashikado, **Takuma Takeuchi**. "*ConnectionChain: Secure Interworking of Blockchains*" (**proceeding**), The International Symposium on Blockchain Computing and Applications (BCCA2019), Spain, 2019.
-- **Takuma Takeuchi**, Toshiya Shimizu, Ken Kamakura, Takeshi Shimoyama, Hiroshi Tsuda. "*A Limited-Use Asset Management System on the Blockchain Platform with an Extended Open Assets Protocol*" (**proceeding**), The 23rd Annual International Conference on Advanced Computing and Communications (ADCOM2017), India, 2017.
+- Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**, "Towards a Levels of Assurance for Data Trustworthiness Framework: A Design Science Approach" (**journal**), *Communications in Computer and Information Science*, to be published, 2026.
+- Shingo Fujimoto, **Takuma Takeuchi**, Yoshiki Higashikado, "Secure Blockchain Interworking Using Extended Smart Contract" (**journal**), *IEICE TRANSACTIONS on Information and Systems*, vol. E105-D, no. 2, pp. 227–234, Feb. 2022, doi: 10.1587/transinf.2021BCP0002.
+- Shingo Fujimoto, Yoshiki Higashikado, **Takuma Takeuchi**. "ConnectionChain: Secure Interworking of Blockchains" (**proceeding**), *Proc. 2019 Sixth Int. Conf. on Internet of Things: Systems, Management and Security (IOTSMS)*. Granada, Spain, 2019, pp. 514–518, doi: 10.1109/IOTSMS48152.2019.8939267.
+- **Takuma Takeuchi**, Toshiya Shimizu, Ken Kamakura, Takeshi Shimoyama, Hiroshi Tsuda. "A Limited-Use Asset Management System on the Blockchain Platform with an Extended Open Assets Protocol" (**proceeding**), *Proc. 23rd Annual Int. Conf. on Advanced Computing and Communications (ADCOM 2017)*, Kerala, India, 2017, pp. 1-7, doi: 10.1109/ADCOM.2017.8691930.
 
 ### 査読なし発表
 
-- Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**: "*Towards Levels of Assurance for Data Trustworthiness - A Novel Framework to Promote Trust in Inter-Organisational Data Sharing*" (**workshop paper**), 18th Workshop on Social and Human Aspects of Business Process Management (BPMS2 2025), 19th International Conference on Research Challenges in Information Science (RCIS2025), Spain, 2025.
-- **Takuma Takeuchi**, Peter Somogyvari, Tracy Kuhrt, Venkatraman Ramakrishna, Susumu Toriumi: "*Panel Discussion: Blockchain Interoperability with Hyperledger Cactus, Weaver, and YUI*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022. [[Youtube](https://www.youtube.com/watch?v=FdYCrgO9g6A)]
-- Jim Zhang, Sophia Lopez, Peter Somogyvari, Venkatraman Ramakrishna, **Takuma Takeuchi**: "*Panel Discussion: All Things Cross-Chain*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022. [[Youtube](https://www.youtube.com/watch?v=_NmUiVsmss8)]
+- Florian Zimmer, Janosch Haber, Mayuko Kaneko, **Takuma Takeuchi**. "*Towards Levels of Assurance for Data Trustworthiness - A Novel Framework to Promote Trust in Inter-Organisational Data Sharing*" (**workshop paper**), 18th Workshop on Social and Human Aspects of Business Process Management (BPMS2 2025), 19th International Conference on Research Challenges in Information Science (RCIS2025), Spain, 2025.
+- **Takuma Takeuchi**, Peter Somogyvari, Tracy Kuhrt, Venkatraman Ramakrishna, Susumu Toriumi. "*Panel Discussion: Blockchain Interoperability with Hyperledger Cactus, Weaver, and YUI*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022. [[Youtube](https://www.youtube.com/watch?v=FdYCrgO9g6A)]
+- Jim Zhang, Sophia Lopez, Peter Somogyvari, Venkatraman Ramakrishna, **Takuma Takeuchi**. "*Panel Discussion: All Things Cross-Chain*" (**presentation**), Hyperledger Global Forum 2022 (HGF2022), Ireland, 2022. [[Youtube](https://www.youtube.com/watch?v=_NmUiVsmss8)]
 - **Takuma Takeuchi**. "*A blockchain interoperability solution for creating token economies - Hyperledger Cactus*" (**presentation**), DeveloperWeek2022, Virtual and USA, 2022.
 - **Takuma Takeuchi**, Yoshiki Higashikado, Shingo Fujimoto. "*A secure cross-chain platform for business blockchain applications*" (**poster**), The 14th International Workshop on Security (IWSEC2019), Japan, 2019.
 - **Takuma Takeuchi**, Hiroto Sekido. "*An approximate approach to E-optimal designs for weighted polynomial regression by using Tchebycheff systems and orthogonal polynomials*" (**poster**), China-Japan Joint Workshop on Integrable Systems 2013, Japan, 2013.
@@ -80,18 +80,17 @@ redirect_from:
 
 ### 技術記事
 
-- 穴井宏和, 藤澤克樹, ほか多数 (**竹内琢磨**を含む): "*生成AIによる社会受容性のある サステナブルなエンジニアリングの実現*" (**technical report**), 産業競争力懇親会 (COCN), 2025. [[Report(Japanese)](https://www.cocn.jp/report/2025/)]
-- Peter Somogyvari, Jagpreet Singh Sasan, Izuru Sato, **Takuma Takeuchi**, Venkatraman Ramakrishna, Sandeep Nishad, Krishnasuri Narayanam, Dhinakaran Vinayagamurthy: "*Introducing Hyperledger Cacti, a multi-faceted pluggable interoperability framework*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/11/07/introducing-hyperledger-cacti-a-multi-faceted-pluggable-interoperability-framework)]
-- Peter Somogyvari, **Takuma Takeuchi**: "*Hyperledger Cactus: Release V1 on the Road to General Blockchain Integration*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/03/17/hyperledger-cactus-release-v1-on-the-road-to-general-blockchain-integration)]
+- 穴井宏和, 藤澤克樹, ほか多数 (**竹内琢磨**を含む). "*生成AIによる社会受容性のある サステナブルなエンジニアリングの実現*" (**technical report**), 産業競争力懇親会 (COCN), 2025. [[Report(Japanese)](https://www.cocn.jp/report/2025/)]
+- Peter Somogyvari, Jagpreet Singh Sasan, Izuru Sato, **Takuma Takeuchi**, Venkatraman Ramakrishna, Sandeep Nishad, Krishnasuri Narayanam, Dhinakaran Vinayagamurthy. "*Introducing Hyperledger Cacti, a multi-faceted pluggable interoperability framework*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/11/07/introducing-hyperledger-cacti-a-multi-faceted-pluggable-interoperability-framework)]
+- Peter Somogyvari, **Takuma Takeuchi**. "*Hyperledger Cactus: Release V1 on the Road to General Blockchain Integration*" (**technical blog**), Hyperledger Blog, 2022. [[Blog](https://www.hyperledger.org/blog/2022/03/17/hyperledger-cactus-release-v1-on-the-road-to-general-blockchain-integration)]
 
 ### 取材記事
 
-- **竹内琢磨**: "*異分野の技術を重ね合わせることによって新たな繋がりを生む技術を作りたい*" (**interview blog**), 研究者の夢, 富士通研究所, 2022. [[Blog](https://www.fujitsu.com/jp/about/research/article/202206-dream-03.html)]
+- **竹内琢磨**. "*異分野の技術を重ね合わせることによって新たな繋がりを生む技術を作りたい*" (**interview blog**), 研究者の夢, 富士通研究所, 2022. [[Blog](https://www.fujitsu.com/jp/about/research/article/202206-dream-03.html)]
 
 ### オープンソースソフトウェア開発
 
-- [Hyperledger Cacti (Cactus)](https://www.hyperledger.org/use/cactus) - Maintainer (2020--現在)
-- [FujitsuLaboratories/ConnectionChain-sample](https://github.com/FujitsuLaboratories/ConnectionChain-sample)
+- [Hyperledger Cacti (Cactus)](https://www.lfdecentralizedtrust.org/projects/cacti) - Emeritus Maintainer (2025--now), Maintainer (2020--2025)
 
 ## 受賞
 
